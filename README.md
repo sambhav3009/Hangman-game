@@ -7,9 +7,6 @@ This is a command-line Hangman game written in Python. The game randomly selects
 - [How It Works](#how-it-works)
 - [Requirements](#requirements)
 - [Usage](#usage)
-- [File Setup](#file-setup)
-- [Example Output](#example-output)
-- [License](#license)
 
 ## Features
 
